@@ -1,8 +1,6 @@
 # Sobre mim
 ## Linguagens mais usadas
-<div align="center">
-<iframe style="border: none;width:180em;height:170px;margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonetecbr&layout=compact"></iframe>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonetecbr&layout=compact)](https://github.com/leonetecbr/leonetecbr)
 
 ## Introdução 😀
 
@@ -13,7 +11,7 @@
 - 📫 Estou aberto a oportunidades de estágio.
 
 ## Tecnologias que domino :nerd_face:
-<div style="display: inline_block"><br>
+<div style="display: inline_block;line-height:60px;">
 <img height="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
