@@ -28,9 +28,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
-<p align="center"> 
- ## Total de Visitas no perfil 👀
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/leonetecbr/count.svg" />
- </p>
+
+## Total de Visitas no perfil 👀
+<p align="center">
+  <img alingn="center" src="https://profile-counter.glitch.me/leonetecbr/count.svg" />
 </p>
