@@ -1,17 +1,17 @@
-# Oi, eu sou Leone Oliveira 🙃
+# Oi, eu sou Leone Oliveira 😊
 
 ## Sobre mim
 
-Desde pequeno sempre gostei da tecnologia e tentava usá-la para ajudar e facilitar a vida das pessoas, acredito que esse
-é sentido de a tecnologia existir. Conheci o mundo da programação em 2017 e fiquei fascinado, para mim, foi uma experiência
-incrível já que tive sempre um bom pensamento lógico.
+Sou um desenvolvedor web full stack apaixonado por criar soluções inovadoras e eficientes. Estou sempre em busca de 
+novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. Sou motivado, 
+comprometido e estou pronto para enfrentar os desafios do mundo da tecnologia com entusiasmo e determinação.
 
-## Tecnologias que domino (ou estou aprendendo) 🤓
+## Tecnologias uso no dia a dia 👨🏽‍💻
 
 <div style="display: inline-block;line-height:60px;">
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="Laravel">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,11 +64,7 @@ incrível já que tive sempre um bom pensamento lógico.
   <a href="https://www.linkedin.com/in/leonetecbr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leone.tec.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/leone.tec.br/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
 
 ## Estatísticas 📊
 
